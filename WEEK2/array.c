@@ -14,7 +14,7 @@ int main()
 	for(i=0;i<5;i++){
 		printf("enter marks of subject%d:",i+1);
 		scanf("%d",&marks[i]);
-		total+=marks;
+		total+=marks[i];
 	}
 	printf("\n-- student details (using array)--\n");
 	printf("rollno number:%d\n",roll_no);
@@ -29,4 +29,5 @@ int main()
 
 	return 0;
 }
+
 
