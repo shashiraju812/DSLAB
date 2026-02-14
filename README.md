@@ -29,9 +29,9 @@ Sorting (Bubble Sort, Selection Sort, Insertion Sort)
 How to Run the Programs
 Install a C compiler (GCC recommended)
 Clone the repository:
-git clone https://github.com/your-username/repository-name.git
+git clone https://github.com/shashiraju812/DSLAB.git
 Open the folder:
-cd repository-name
+cd DSLAB
 Compile the program:
 gcc filename.c -o output
 Run the program:
