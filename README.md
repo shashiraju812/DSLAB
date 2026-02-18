@@ -29,7 +29,7 @@ Sorting (Bubble Sort, Selection Sort, Insertion Sort)
 How to Run the Programs
 Install a C compiler (GCC recommended)
 Clone the repository:
-git clone https://github.com/shashiraju812/DSLAB.git
+git clone https://github.com/shashiraju812/DSLAB
 Open the folder:
 cd DSLAB
 Compile the program:
